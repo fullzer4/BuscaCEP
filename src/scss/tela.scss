@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700;800;900;1000&family=Pacifico&display=swap');
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 48px;
+}
+
+div{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  input{
+    width: 15rem;
+    height: 3rem;
+    border: 2px solid #000;
+    border-radius: 5px;
+  }
+  button{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 2px solid #000;
+    border-radius: 5px;
+  }
+}
+
+p {
+  font-family: 'Nunito Sans', sans-serif;
+}
